@@ -1,0 +1,72 @@
+{
+   "COUNTRIES": [
+      {
+         "STATES": [
+            {
+               "StateIncidentCount": 35,
+               "StateName": "Ontario",
+               "Code": "ca-on"
+            },
+            {
+               "StateIncidentCount": 120,
+               "StateName": "Quebec",
+               "Code": "ca-qc"
+            }
+         ],
+         "CountryName": "Canada",
+         "CountryIncidentCount": 96,
+         "Code": "ca"
+      },
+      {
+         "STATES": [
+            {
+               "StateIncidentCount": 100,
+               "StateName": "Dubai",
+               "Code": "ae-du"
+            },
+            {
+               "StateIncidentCount": 200,
+               "StateName": "Fujairah",
+               "Code": "ae-fu"
+            }
+         ],
+         "CountryName": "United Arab Emirates",
+         "CountryIncidentCount": 5000,
+         "Code": "ae"
+      },
+      {
+         "STATES": [
+            {
+               "StateIncidentCount": 1234,
+               "StateName": "Helmand",
+               "Code": "af-hm"
+            },
+            {
+               "StateIncidentCount": 1122,
+               "StateName": "Kandahar",
+               "Code": "af-kd"
+            }
+         ],
+         "CountryName": "Afghanistan",
+         "CountryIncidentCount": 12731,
+         "Code": "af"
+      },
+      {
+         "STATES": [
+            {
+               "StateIncidentCount": 26,
+               "StateName": "Tirana",
+               "Code": "al-ti"
+            },
+            {
+               "StateIncidentCount": 9,
+               "StateName": "Gjirokaster",
+               "Code": "al-gk"
+            }
+         ],
+         "CountryName": "Albania",
+         "CountryIncidentCount": 20000,
+         "Code": "al"
+      }
+   ]
+}
